@@ -1,7 +1,7 @@
 # CRANE
 ### Cognitive Runtime for Autonomous & Neural Execution
 
-> An enterprise-grade AI agent framework built in Python by [Acren Digital](https://acren.com).  
+> An enterprise-grade AI agent framework built in Python by [Acren Digital](https://acrendigital.com).  
 > Lightweight by design. Powerful by architecture.
 
 ---
